@@ -30,6 +30,8 @@ A modern, professional-grade network port scanning tool built with Python. Scan 
 - **Input Validation**: Comprehensive validation for all inputs
 - **Error Handling**: Graceful handling of network issues and invalid inputs
 
+<img width="1470" height="956" alt="Screenshot 2026-04-08 at 9 57 15 PM" src="https://github.com/user-attachments/assets/2e312648-fe2d-45cd-9faa-d201350cec8a" />
+
 ## 🎯 Requirements
 
 - Python 3.8 or higher
